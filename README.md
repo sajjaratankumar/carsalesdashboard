@@ -6,6 +6,7 @@
 
 There is a noticeable increase in the average selling price across almost all brands starting from the early 2010s. This suggests a general rise in car prices, possibly due to advancements in technology, added features, or inflation.
 Some brands, such as BMW and Mercedes-Benz, show a sharper increase in average selling prices compared to others, indicating a focus on premium, high-cost models.
+
 **2. Average Selling Price by Brand:**
 
 Lexus, Land Rover, and Jaguar are among the brands with the highest average selling prices, suggesting these brands are positioned in the luxury market.
