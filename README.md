@@ -1,4 +1,4 @@
-# carsalesdashboard
+# Car Sales Dashboard
 
 **Insights:**
 
