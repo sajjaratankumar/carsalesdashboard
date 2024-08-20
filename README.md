@@ -1,5 +1,5 @@
 # Car Sales Dashboard
-
+![Car Sales Dashboard](Car Sales Simple Dashboard_page-0001.jpg)
 **Insights:**
 
 **1. Trend in Average Selling Price by Car Brands (1994-2020):**
