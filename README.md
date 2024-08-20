@@ -1,8 +1,6 @@
 # Car Sales Analysis
 
-This project involves analyzing car sales data over time. Below is a snapshot of the dashboard summarizing key trends.
-
-![Car Sales Dashboard] ([https://github.com/sajjaratankumar/carsalesdashboard/blob/main/Car%20Sales%20Simple%20Dashboard_page-0001.jpg)] "This is a car sales dashboard")
+![Car Sales Dashboard](https://github.com/sajjaratankumar/carsalesdashboard/blob/main/Car%20Sales%20Simple%20Dashboard_page-0001.jpg "This is a car sales dashboard")
 
 The dashboard above highlights trends in average selling prices for various car brands from 1994 to 2020.
 
