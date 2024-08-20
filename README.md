@@ -1,6 +1,7 @@
 # Car Sales Dashboard
 
-![Car Sales Dashboard](Car Sales Simple Dashboard_page-0001.jpg)
+
+![Car Sales Dashboard] (https://github.com/sajjaratankumar/carsalesdashboard/blob/main/Car%20Sales%20Simple%20Dashboard_page-0001.jpg)
 
 **Insights:**
 
