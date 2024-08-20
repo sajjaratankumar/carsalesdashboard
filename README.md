@@ -4,10 +4,6 @@
 
 The dashboard above highlights trends in average selling prices for various car brands from 1994 to 2020.
 
-
-
-![Car Sales Dashboard] (https://github.com/sajjaratankumar/carsalesdashboard/blob/main/Car%20Sales%20Simple%20Dashboard_page-0001.jpg)
-
 **Insights:**
 
 **1. Trend in Average Selling Price by Car Brands (1994-2020):**
